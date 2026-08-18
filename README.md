@@ -29,9 +29,8 @@ work quickly, read a limitations section before you read a README.
 
 - **[block/buzz #5515](https://github.com/block/buzz/pull/5515)** — review of a managed
   authorization integration. Reported that trusted-gateway state was granted from an
-  executable basename, and that the managed installer was unpinned; both were fixed by
-  the maintainer within 24 hours. A later review of the owner-review flow is open on the
-  same PR.
+  executable basename, and that the managed installer was unpinned. Both were addressed.
+  A later review of the manifest owner-review path is open on the same PR.
 
 Open and awaiting review: [google-agentic-commerce/AP2 #318](https://github.com/google-agentic-commerce/AP2/pull/318),
 [microsoft/agent-governance-toolkit #3563](https://github.com/microsoft/agent-governance-toolkit/pull/3563),
